@@ -1,0 +1,14 @@
+HTTP/1.1 404 Not Found
+Date: Thu, 26 Mar 2015 04:45:41 GMT
+Server: Apache
+Content-Length: 259
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /stream/1002/3/1001878-201cd2f5/128/Soledad - Westlife.mp3.csn was not found on this server.</p>
+</body></html>
